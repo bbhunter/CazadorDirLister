@@ -31,7 +31,7 @@ if you want to scan a bigger area , you can use the other [tool](https://github.
 
 After downloading the tool , Select single or multi domains ,Define the list file "attached" ,  Fill your targets and start the tool.
 
-![Running]( )
+![Running](https://github.com/cazadorsuite/Cazador-DirLister/blob/master/src/Running.png?raw=true)
 
 
 The tool allows to scan with `HEAD` method to reduce the load on the network.
