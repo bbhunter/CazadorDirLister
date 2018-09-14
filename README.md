@@ -38,7 +38,7 @@ The tool allows to scan with `HEAD` method to reduce the load on the network.
 
  
  
-
+The assets on screenshot are public by  intention   , if you think this should be redacted , feel free to contact me.
 
 [Check other tools](https://github.com/cazadorsuite)
 
