@@ -5,7 +5,7 @@ Find Directory Listing in multiple hosts easily.
 How to find directory listing for a single domain.
 
 - You need an HTTP repeater/tool/script in any language
-- List of directory names
+- List of directory names [pick one](https://github.com/danielmiessler/SecLists)
 
 Then you have to issue http request to check if a given directory exitsts or not.
 
